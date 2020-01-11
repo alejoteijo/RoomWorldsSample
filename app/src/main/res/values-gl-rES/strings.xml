@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoomWorldsSample</string>
+    <string name="button_save">Gardar</string>
+    <string name="empty_not_saved">Palabra non gardada porque está baleira</string>
+    <string name="hint_word">Palabra</string>
+</resources>
